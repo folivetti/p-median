@@ -1,0 +1,35 @@
+There is one data file, pmedcap1
+
+This file contains the problems solved in:
+[1]  I.H. Osman and N. Christofides, Capacitated clustering problems 
+     by hybrid simulated annealing and tabu search,
+     International Transactions in Operational Research, Vol. 1,
+     No. 3, (1994) pp317-336.
+
+The format of the data file is:
+Number of problems (M)
+For each problem m (m=1,...,M) in turn:
+   Problem number in [1], best solution value found in [1]
+   Number of customers (n), number of medians (p), capacity of each median (Q)
+      For each customer i (i=1,...,n) in turn:
+      customer number (i), x coordinate of i, y coordinate of i, demand of i
+
+Note here that the computational results reported in [1] used 
+euclidean distances calculated from these coordinates but 
+rounded down to the nearest integer.
+
+These problems were contributed by Dr Ibrahim H. Osman
+Institute of Mathematics and Statistics, University of Kent,
+Canterbury, Kent CT2 7NF, UK
+E-mail: I.H.Osman@ukc.ac.uk
+Tel: +44 (0) 1227-764000 ext 7893
+Fax: +44 (0) 1227-475 453
+
+The data file is of size 20KB (approximately).
+
+
+A full listing of the problem areas covered by OR-library can
+be found in the file info
+
+ftp access available at mscmga.ms.ic.ac.uk
+WWW access available at http://mscmga.ms.ic.ac.uk/

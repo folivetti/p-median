@@ -1,0 +1,245 @@
+0 melhorou: 1084.000000
+1 melhorou: 1053.000000
+2 melhorou: 1044.000000
+7 melhorou: 1039.000000
+18 melhorou: 1034.000000
+22 melhorou: 1031.000000
+update now: 57
+97 melhorou: 1021.000000
+108 melhorou: 1018.000000
+update now: 116
+update now: 175
+update now: 234
+update now: 293
+update now: 351
+update now: 408
+update now: 467
+tempo em seg.: 45.521969
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		786		1005		1.293532
+ ------------------------------------------------------------
+0 melhorou: 1071.000000
+1 melhorou: 1043.000000
+15 melhorou: 1042.000000
+20 melhorou: 1041.000000
+23 melhorou: 1039.000000
+24 melhorou: 1034.000000
+34 melhorou: 1026.000000
+update now: 56
+update now: 114
+update now: 171
+update now: 229
+260 melhorou: 1018.000000
+update now: 288
+update now: 346
+update now: 405
+update now: 464
+tempo em seg.: 46.629249
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		786		1005		1.293532
+ ------------------------------------------------------------
+0 melhorou: 1070.000000
+1 melhorou: 1051.000000
+7 melhorou: 1050.000000
+8 melhorou: 1031.000000
+23 melhorou: 1026.000000
+update now: 56
+84 melhorou: 1022.000000
+101 melhorou: 1018.000000
+update now: 115
+update now: 174
+222 melhorou: 1013.000000
+update now: 231
+update now: 288
+update now: 346
+update now: 402
+update now: 460
+tempo em seg.: 45.693243
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1013		786		1005		0.796020
+ ------------------------------------------------------------
+0 melhorou: 1073.000000
+1 melhorou: 1036.000000
+6 melhorou: 1028.000000
+34 melhorou: 1024.000000
+update now: 57
+99 melhorou: 1013.000000
+update now: 114
+update now: 171
+update now: 229
+update now: 286
+update now: 343
+update now: 400
+update now: 458
+tempo em seg.: 47.097766
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1013		786		1005		0.796020
+ ------------------------------------------------------------
+0 melhorou: 1041.000000
+18 melhorou: 1039.000000
+22 melhorou: 1038.000000
+24 melhorou: 1037.000000
+25 melhorou: 1035.000000
+27 melhorou: 1032.000000
+34 melhorou: 1024.000000
+37 melhorou: 1018.000000
+update now: 57
+update now: 115
+update now: 173
+update now: 232
+update now: 291
+update now: 350
+update now: 408
+update now: 466
+tempo em seg.: 45.984891
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		786		1005		1.293532
+ ------------------------------------------------------------
+0 melhorou: 1070.000000
+2 melhorou: 1042.000000
+4 melhorou: 1041.000000
+7 melhorou: 1038.000000
+20 melhorou: 1033.000000
+update now: 57
+update now: 114
+update now: 172
+203 melhorou: 1031.000000
+update now: 231
+249 melhorou: 1028.000000
+update now: 288
+318 melhorou: 1025.000000
+326 melhorou: 1024.000000
+334 melhorou: 1021.000000
+update now: 346
+update now: 403
+update now: 461
+tempo em seg.: 46.728499
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1021		786		1005		1.592040
+ ------------------------------------------------------------
+0 melhorou: 1055.000000
+2 melhorou: 1049.000000
+3 melhorou: 1039.000000
+12 melhorou: 1036.000000
+20 melhorou: 1035.000000
+23 melhorou: 1031.000000
+25 melhorou: 1018.000000
+update now: 57
+update now: 115
+update now: 173
+update now: 231
+277 melhorou: 1013.000000
+update now: 288
+update now: 345
+update now: 403
+update now: 461
+tempo em seg.: 46.565302
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1013		786		1005		0.796020
+ ------------------------------------------------------------
+0 melhorou: 1064.000000
+1 melhorou: 1049.000000
+2 melhorou: 1048.000000
+3 melhorou: 1041.000000
+4 melhorou: 1035.000000
+25 melhorou: 1028.000000
+36 melhorou: 1024.000000
+update now: 57
+87 melhorou: 1022.000000
+93 melhorou: 1018.000000
+update now: 116
+update now: 175
+update now: 233
+update now: 292
+update now: 351
+update now: 410
+update now: 469
+tempo em seg.: 45.405753
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		786		1005		1.293532
+ ------------------------------------------------------------
+0 melhorou: 1070.000000
+1 melhorou: 1052.000000
+3 melhorou: 1051.000000
+4 melhorou: 1050.000000
+5 melhorou: 1040.000000
+7 melhorou: 1037.000000
+17 melhorou: 1035.000000
+23 melhorou: 1033.000000
+25 melhorou: 1031.000000
+30 melhorou: 1024.000000
+31 melhorou: 1019.000000
+39 melhorou: 1018.000000
+update now: 57
+update now: 116
+update now: 175
+update now: 234
+update now: 293
+update now: 351
+update now: 410
+update now: 469
+tempo em seg.: 44.510913
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		786		1005		1.293532
+ ------------------------------------------------------------
+0 melhorou: 1050.000000
+2 melhorou: 1044.000000
+12 melhorou: 1024.000000
+update now: 57
+update now: 114
+120 melhorou: 1021.000000
+146 melhorou: 1020.000000
+153 melhorou: 1013.000000
+update now: 172
+update now: 229
+update now: 286
+update now: 343
+update now: 401
+update now: 459
+tempo em seg.: 46.546543
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1013		786		1005		0.796020
+ ------------------------------------------------------------
+
+
+RPC medio: 0.796020

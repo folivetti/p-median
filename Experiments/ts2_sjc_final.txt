@@ -1,0 +1,69 @@
+its necessarias passo 1 (const): 1
+melhorou: 17518.000000
+tempo em seg.: 1.828000
+tempo em seg.: 1.532220
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|17518		786		17288		1.330403
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+melhorou: 35045.000000
+tempo em seg.: 18.812000
+tempo em seg.: 15.670573
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|35045		816		33395		4.940859
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+melhorou: 46348.000000
+tempo em seg.: 82.188000
+tempo em seg.: 68.492694
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|46348		972		45364		2.169121
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+melhorou: 41029.000000
+tempo em seg.: 86.579000
+tempo em seg.: 72.161223
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|41029		891		40635		0.969607
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+melhorou: 63160.000000
+tempo em seg.: 209.969000
+tempo em seg.: 174.982939
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|63160		804		62000		1.870968
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+melhorou: 53158.000000
+tempo em seg.: 205.188000
+tempo em seg.: 171.013226
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|53158		882		52641		0.982124
+ ------------------------------------------------------------
+
+
+RPC medio: 2.043847

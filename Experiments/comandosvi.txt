@@ -1,0 +1,9 @@
+:%s/Experimento [[:digit:]]\+\n//gi
+:%s/ -\+\n//gi
+:%s/"RECORTE AQUI-\+"\n//gi
+:%s/|//gi
+:%s/.\+Melhor\n//gi
+:%s/^\n//gi
+
+
+:%s/Experimento [[:digit:]]\+:\n//gi<CR> :%s/ -\+\n//gi<CR> :%s/"RECORTE AQUI-\+"\n//gi<CR> :%s/<BAR>//gi<CR> :%s/.\+Melhor\n//gi<CR> :%s/^\n//gi<CR> :%s/\t\t[[:digit:]]\+\t\t[[:digit:]]\+//gi

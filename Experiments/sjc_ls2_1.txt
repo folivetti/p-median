@@ -1,0 +1,75 @@
+its necessarias passo 1 (const): 1
+23682
+its necessarias passo 2 (local): 4
+tempo em seg.: 0.047000
+tempo em seg.: 0.038078
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|17472		786		17288		1.064322
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+38320
+its necessarias passo 2 (local): 5
+tempo em seg.: 0.281000
+tempo em seg.: 0.229046
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|34513		816		33395		3.347807
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+60858
+its necessarias passo 2 (local): 4
+tempo em seg.: 2.062000
+tempo em seg.: 1.717627
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|45869		972		45364		1.113218
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+56496
+its necessarias passo 2 (local): 4
+tempo em seg.: 1.360000
+tempo em seg.: 1.124046
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|41133		891		40635		1.225544
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+97519
+its necessarias passo 2 (local): 4
+tempo em seg.: 3.484000
+tempo em seg.: 2.907302
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|64040		804		62000		3.290323
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+79019
+its necessarias passo 2 (local): 6
+tempo em seg.: 4.172000
+tempo em seg.: 3.470564
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|52998		882		52641		0.678179
+ ------------------------------------------------------------
+
+
+RPC medio: 1.786565

@@ -1,0 +1,243 @@
+its necessarias passo 1 (const): 3
+779
+its necessarias passo 2 (local): 1
+tempo em seg.: 0.000000
+tempo em seg.: 0.000782
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|740		786		713		3.786816
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 2
+762
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.000000
+tempo em seg.: 0.000993
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|740		816		740		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+809
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.000000
+tempo em seg.: 0.001857
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|768		972		751		2.263648
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 5
+651
+its necessarias passo 2 (local): 1
+tempo em seg.: 0.000000
+tempo em seg.: 0.001144
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|651		891		651		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 2
+774
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.016000
+tempo em seg.: 0.002727
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|664		804		664		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 3
+852
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.000000
+tempo em seg.: 0.002116
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|792		882		778		1.799486
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+890
+its necessarias passo 2 (local): 4
+tempo em seg.: 0.015000
+tempo em seg.: 0.007359
+factivel: 1
+
+Experimento 7:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|814		968		787		3.430750
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 2
+915
+its necessarias passo 2 (local): 1
+tempo em seg.: 0.000000
+tempo em seg.: 0.001772
+factivel: 1
+
+Experimento 8:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|844		945		820		2.926829
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+737
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.016000
+tempo em seg.: 0.000930
+factivel: 1
+
+Experimento 9:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|721		752		715		0.839161
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 3
+901
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.000000
+tempo em seg.: 0.001506
+factivel: 1
+
+Experimento 10:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|842		1017		829		1.568154
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1088
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.015000
+tempo em seg.: 0.019265
+factivel: 1
+
+Experimento 11:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1035		1761		1006		2.882704
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 8
+1058
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.016000
+tempo em seg.: 0.012238
+factivel: 1
+
+Experimento 12:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|992		1567		966		2.691511
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 2
+1208
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.031000
+tempo em seg.: 0.018368
+factivel: 1
+
+Experimento 13:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1051		1847		1026		2.436647
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1056
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.000000
+tempo em seg.: 0.007597
+factivel: 1
+
+Experimento 14:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|997		1635		982		1.527495
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 3
+1164
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.015000
+tempo em seg.: 0.012287
+factivel: 1
+
+Experimento 15:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1097		1517		1091		0.549954
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1225
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.016000
+tempo em seg.: 0.008835
+factivel: 1
+
+Experimento 16:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|991		1780		954		3.878407
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1114
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.031000
+tempo em seg.: 0.026171
+factivel: 1
+
+Experimento 17:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1056		1665		1034		2.127660
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 3
+1197
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.016000
+tempo em seg.: 0.012576
+factivel: 1
+
+Experimento 18:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1088		1345		1043		4.314477
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1243
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.016000
+tempo em seg.: 0.011582
+factivel: 1
+
+Experimento 19:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1059		1634		1031		2.715810
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+1190
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.047000
+tempo em seg.: 0.036883
+factivel: 1
+
+Experimento 20:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1077		1872		1005		7.164179
+ ------------------------------------------------------------
+
+
+RPC medio: 2.345184

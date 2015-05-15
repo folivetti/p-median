@@ -1,0 +1,75 @@
+its necessarias passo 1 (const): 4
+20332
+its necessarias passo 2 (local): 2
+tempo em seg.: 0.094000
+tempo em seg.: 0.079531
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|19059		786		17288		10.244100
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+37039
+its necessarias passo 2 (local): 4
+tempo em seg.: 0.219000
+tempo em seg.: 0.192153
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|34160		816		33395		2.290762
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 8
+51436
+its necessarias passo 2 (local): 3
+tempo em seg.: 0.828000
+tempo em seg.: 0.688167
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|45980		972		45364		1.357905
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 5
+47437
+its necessarias passo 2 (local): 3
+tempo em seg.: 1.640000
+tempo em seg.: 1.371340
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|41519		891		40635		2.175465
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 12
+74933
+its necessarias passo 2 (local): 4
+tempo em seg.: 6.078000
+tempo em seg.: 5.067530
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|63095		804		62000		1.766129
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+64552
+its necessarias passo 2 (local): 5
+tempo em seg.: 3.063000
+tempo em seg.: 2.555184
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|53149		882		52641		0.965027
+ ------------------------------------------------------------
+
+
+RPC medio: 3.133231

@@ -1,0 +1,894 @@
+melhorou: 0 743.000000
+melhorou: 1 714.000000
+melhorou: 2 713.000000
+tempo em seg.: 11.844000
+tempo em seg.: 9.846955
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|713		786		713		0.000000
+ ------------------------------------------------------------
+melhorou: 1 741.000000
+melhorou: 3 740.000000
+tempo em seg.: 11.375000
+tempo em seg.: 9.477348
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|740		816		740		0.000000
+ ------------------------------------------------------------
+melhorou: 2 776.000000
+melhorou: 3 759.000000
+tempo em seg.: 11.984000
+tempo em seg.: 9.993969
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|759		972		751		1.065246
+ ------------------------------------------------------------
+melhorou: 0 655.000000
+melhorou: 1 654.000000
+melhorou: 2 651.000000
+tempo em seg.: 11.344000
+tempo em seg.: 9.465310
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|651		891		651		0.000000
+ ------------------------------------------------------------
+melhorou: 0 704.000000
+melhorou: 1 682.000000
+melhorou: 2 669.000000
+melhorou: 3 665.000000
+tempo em seg.: 11.344000
+tempo em seg.: 9.458268
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|665		804		664		0.150602
+ ------------------------------------------------------------
+melhorou: 1 809.000000
+nao todos alocados
+melhorou: 3 794.000000
+melhorou: 4 793.000000
+melhorou: 6 788.000000
+melhorou: 7 785.000000
+tempo em seg.: 11.547000
+tempo em seg.: 9.620537
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|797		882		778		2.442159
+ ------------------------------------------------------------
+melhorou: 0 821.000000
+melhorou: 1 813.000000
+melhorou: 2 801.000000
+melhorou: 3 787.000000
+tempo em seg.: 11.578000
+tempo em seg.: 9.644085
+factivel: 1
+
+Experimento 7:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|787		968		787		0.000000
+ ------------------------------------------------------------
+melhorou: 0 864.000000
+melhorou: 1 857.000000
+melhorou: 2 849.000000
+tempo em seg.: 11.922000
+tempo em seg.: 9.939990
+factivel: 1
+
+Experimento 8:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|849		945		820		3.536585
+ ------------------------------------------------------------
+melhorou: 0 759.000000
+melhorou: 1 724.000000
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+tempo em seg.: 11.265000
+tempo em seg.: 9.393812
+factivel: 1
+
+Experimento 9:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|721		752		715		0.839161
+ ------------------------------------------------------------
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+tempo em seg.: 11.360000
+tempo em seg.: 9.458319
+nao todos alocados
+factivel: 0
+
+Experimento 10:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|840		1017		829		1.326900
+ ------------------------------------------------------------
+melhorou: 0 1178.000000
+melhorou: 1 1065.000000
+melhorou: 2 1050.000000
+melhorou: 8 1046.000000
+melhorou: 9 1037.000000
+melhorou: 12 1031.000000
+melhorou: 14 1025.000000
+melhorou: 16 1020.000000
+melhorou: 17 1018.000000
+tempo em seg.: 72.203000
+tempo em seg.: 60.181393
+factivel: 1
+
+Experimento 11:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1018		1761		1006		1.192843
+ ------------------------------------------------------------
+melhorou: 0 1115.000000
+melhorou: 1 1037.000000
+melhorou: 2 1014.000000
+melhorou: 3 1003.000000
+melhorou: 4 997.000000
+melhorou: 6 990.000000
+melhorou: 8 983.000000
+melhorou: 9 977.000000
+melhorou: 10 976.000000
+melhorou: 11 975.000000
+melhorou: 14 972.000000
+melhorou: 15 971.000000
+melhorou: 16 970.000000
+tempo em seg.: 70.422000
+tempo em seg.: 58.671251
+factivel: 1
+
+Experimento 12:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|970		1567		966		0.414079
+ ------------------------------------------------------------
+melhorou: 1 1195.000000
+melhorou: 2 1175.000000
+melhorou: 3 1133.000000
+melhorou: 5 1095.000000
+melhorou: 7 1060.000000
+melhorou: 9 1048.000000
+melhorou: 10 1036.000000
+melhorou: 12 1034.000000
+melhorou: 15 1028.000000
+tempo em seg.: 70.532000
+tempo em seg.: 58.780795
+factivel: 1
+
+Experimento 13:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1028		1847		1026		0.194932
+ ------------------------------------------------------------
+melhorou: 0 1171.000000
+melhorou: 1 1094.000000
+melhorou: 2 1062.000000
+melhorou: 3 1036.000000
+melhorou: 5 1035.000000
+melhorou: 8 1021.000000
+melhorou: 9 1013.000000
+melhorou: 11 1005.000000
+melhorou: 16 998.000000
+melhorou: 20 992.000000
+tempo em seg.: 68.532000
+tempo em seg.: 57.120604
+factivel: 1
+
+Experimento 14:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|992		1635		982		1.018330
+ ------------------------------------------------------------
+melhorou: 0 1244.000000
+melhorou: 1 1208.000000
+melhorou: 2 1207.000000
+melhorou: 3 1153.000000
+melhorou: 5 1143.000000
+melhorou: 7 1138.000000
+melhorou: 9 1121.000000
+melhorou: 12 1100.000000
+melhorou: 13 1099.000000
+melhorou: 14 1098.000000
+melhorou: 15 1097.000000
+tempo em seg.: 73.360000
+tempo em seg.: 61.101494
+factivel: 1
+
+Experimento 15:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1097		1517		1091		0.549954
+ ------------------------------------------------------------
+melhorou: 0 1105.000000
+melhorou: 1 1085.000000
+melhorou: 3 1058.000000
+melhorou: 4 1009.000000
+melhorou: 5 985.000000
+melhorou: 6 982.000000
+melhorou: 8 980.000000
+melhorou: 10 978.000000
+tempo em seg.: 71.188000
+tempo em seg.: 59.327594
+factivel: 1
+
+Experimento 16:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|978		1780		954		2.515723
+ ------------------------------------------------------------
+melhorou: 0 1244.000000
+melhorou: 1 1162.000000
+melhorou: 2 1126.000000
+melhorou: 4 1113.000000
+melhorou: 6 1104.000000
+melhorou: 8 1100.000000
+melhorou: 9 1087.000000
+melhorou: 10 1079.000000
+melhorou: 12 1070.000000
+melhorou: 17 1063.000000
+melhorou: 18 1060.000000
+tempo em seg.: 70.344000
+tempo em seg.: 58.620113
+factivel: 1
+
+Experimento 17:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1060		1665		1034		2.514507
+ ------------------------------------------------------------
+melhorou: 0 1202.000000
+melhorou: 1 1201.000000
+melhorou: 2 1136.000000
+melhorou: 3 1114.000000
+melhorou: 6 1089.000000
+melhorou: 7 1073.000000
+melhorou: 10 1061.000000
+melhorou: 11 1056.000000
+melhorou: 12 1054.000000
+melhorou: 16 1053.000000
+tempo em seg.: 70.640000
+tempo em seg.: 58.881917
+factivel: 1
+
+Experimento 18:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1053		1345		1043		0.958773
+ ------------------------------------------------------------
+melhorou: 0 1195.000000
+melhorou: 1 1125.000000
+melhorou: 3 1112.000000
+melhorou: 5 1105.000000
+melhorou: 6 1101.000000
+melhorou: 7 1093.000000
+melhorou: 8 1083.000000
+melhorou: 9 1080.000000
+melhorou: 10 1079.000000
+melhorou: 11 1067.000000
+melhorou: 12 1064.000000
+melhorou: 13 1059.000000
+melhorou: 14 1053.000000
+melhorou: 15 1049.000000
+melhorou: 18 1041.000000
+tempo em seg.: 68.016000
+tempo em seg.: 56.691995
+factivel: 1
+
+Experimento 19:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1041		1634		1031		0.969932
+ ------------------------------------------------------------
+melhorou: 1 1134.000000
+melhorou: 2 1117.000000
+melhorou: 4 1099.000000
+melhorou: 6 1095.000000
+melhorou: 7 1075.000000
+melhorou: 8 1069.000000
+melhorou: 9 1047.000000
+melhorou: 13 1039.000000
+nao todos alocados
+melhorou: 16 1020.000000
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+nao todos alocados
+tempo em seg.: 70.031000
+tempo em seg.: 58.363949
+factivel: 1
+
+Experimento 20:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1058		1872		1005		5.273632
+ ------------------------------------------------------------
+
+
+RPC medio: 1.248168

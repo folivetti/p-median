@@ -1,0 +1,34 @@
+0 melhorou: 1811.000000
+1 melhorou: 1797.000000
+2 melhorou: 1787.000000
+5 melhorou: 1784.000000
+6 melhorou: 1782.000000
+11 melhorou: 1774.000000
+17 melhorou: 1773.000000
+27 melhorou: 1767.000000
+31 melhorou: 1766.000000
+36 melhorou: 1755.000000
+40 melhorou: 1752.000000
+42 melhorou: 1751.000000
+update now: 45
+89 melhorou: 1749.000000
+update now: 92
+update now: 139
+update now: 186
+update now: 233
+update now: 280
+update now: 327
+update now: 374
+update now: 421
+update now: 468
+tempo em seg.: 101.574074
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1749		786		1800		-2.833333
+ ------------------------------------------------------------
+
+
+RPC medio: -2.833333

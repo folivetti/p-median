@@ -1,0 +1,103 @@
+0 melhorou: 17793.000000
+2 melhorou: 17716.000000
+8 melhorou: 17607.000000
+12 melhorou: 17525.000000
+22 melhorou: 17425.000000
+23 melhorou: 17400.000000
+update now: 56
+update now: 114
+158 melhorou: 17390.000000
+update now: 171
+update now: 229
+update now: 288
+update now: 346
+update now: 404
+update now: 462
+tempo em seg.: 63.130759
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|17390		786		17288		0.590005
+ ------------------------------------------------------------
+0 melhorou: 34233.000000
+1 melhorou: 34150.000000
+2 melhorou: 34085.000000
+6 melhorou: 34008.000000
+7 melhorou: 33451.000000
+30 melhorou: 33422.000000
+34 melhorou: 33369.000000
+35 melhorou: 33353.000000
+update now: 47
+82 melhorou: 33347.000000
+86 melhorou: 33315.000000
+88 melhorou: 33310.000000
+91 melhorou: 33306.000000
+92 melhorou: 33254.000000
+update now: 96
+update now: 145
+update now: 194
+update now: 243
+update now: 292
+update now: 341
+update now: 390
+update now: 439
+update now: 488
+tempo em seg.: 338.077483
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|33254		816		33395		-0.422219
+ ------------------------------------------------------------
+0 melhorou: 47445.000000
+2 melhorou: 46481.000000
+19 melhorou: 46329.000000
+28 melhorou: 46034.000000
+36 melhorou: 45811.000000
+38 melhorou: 45553.000000
+42 melhorou: 45444.000000
+46 melhorou: 45422.000000
+49 melhorou: 45368.000000
+update now: 49
+93 melhorou: 45342.000000
+update now: 100
+update now: 151
+update now: 202
+247 melhorou: 45294.000000
+update now: 253
+300 melhorou: 45265.000000
+update now: 304
+update now: 355
+update now: 406
+update now: 457
+tempo em seg.: 1565.184360
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|45265		972		45364		-0.218235
+ ------------------------------------------------------------
+0 melhorou: 42447.000000
+1 melhorou: 42444.000000
+2 melhorou: 42402.000000
+3 melhorou: 41705.000000
+9 melhorou: 41514.000000
+20 melhorou: 41409.000000
+29 melhorou: 41207.000000
+30 melhorou: 40970.000000
+32 melhorou: 40954.000000
+38 melhorou: 40949.000000
+39 melhorou: 40798.000000
+42 melhorou: 40758.000000
+update now: 57
+110 melhorou: 40718.000000
+112 melhorou: 40713.000000
+update now: 115
+153 melhorou: 40646.000000
+159 melhorou: 40639.000000
+162 melhorou: 40587.000000
+update now: 173

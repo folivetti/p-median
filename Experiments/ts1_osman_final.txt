@@ -1,0 +1,362 @@
+its necessarias passo 1 (const): 1
+tabu: 4
+0 melhorou: 739.000000
+1 melhorou: 734.000000
+13 melhorou: 713.000000
+tabu: 3
+tabu: 3
+tabu: 5
+tabu: 3
+tempo em seg.: 0.671000
+tempo em seg.: 0.553395
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|713		786		713		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 6
+0 melhorou: 740.000000
+tabu: 7
+tabu: 8
+tabu: 7
+tabu: 4
+tempo em seg.: 0.704000
+tempo em seg.: 0.592237
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|740		816		740		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 6
+0 melhorou: 782.000000
+1 melhorou: 780.000000
+2 melhorou: 777.000000
+5 melhorou: 775.000000
+8 melhorou: 756.000000
+tabu: 7
+60 melhorou: 751.000000
+tabu: 8
+tabu: 7
+tempo em seg.: 0.797000
+tempo em seg.: 0.666351
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|751		972		751		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 8
+0 melhorou: 651.000000
+tabu: 4
+tabu: 6
+tabu: 8
+tabu: 5
+tempo em seg.: 0.813000
+tempo em seg.: 0.683044
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|651		891		651		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 4
+0 melhorou: 664.000000
+tabu: 7
+tabu: 5
+tabu: 4
+tabu: 5
+tempo em seg.: 0.797000
+tempo em seg.: 0.662260
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|664		804		664		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 6
+0 melhorou: 820.000000
+1 melhorou: 814.000000
+2 melhorou: 808.000000
+3 melhorou: 803.000000
+7 melhorou: 785.000000
+8 melhorou: 784.000000
+15 melhorou: 778.000000
+tabu: 5
+tabu: 3
+tabu: 6
+tabu: 6
+tempo em seg.: 0.750000
+tempo em seg.: 0.624796
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|778		882		778		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 7
+0 melhorou: 828.000000
+2 melhorou: 814.000000
+6 melhorou: 787.000000
+tabu: 8
+tabu: 7
+tabu: 8
+tabu: 7
+tempo em seg.: 0.813000
+tempo em seg.: 0.670926
+factivel: 1
+
+Experimento 7:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|787		968		787		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 7
+0 melhorou: 827.000000
+tabu: 8
+tabu: 7
+tabu: 8
+tabu: 7
+tempo em seg.: 0.796000
+tempo em seg.: 0.668491
+factivel: 1
+
+Experimento 8:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|827		945		820		0.853659
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 3
+0 melhorou: 719.000000
+4 melhorou: 717.000000
+tabu: 5
+tabu: 6
+tabu: 4
+tabu: 8
+tempo em seg.: 0.750000
+tempo em seg.: 0.633813
+factivel: 1
+
+Experimento 9:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|717		752		715		0.279720
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 5
+2 melhorou: 869.000000
+5 melhorou: 841.000000
+tabu: 8
+tabu: 4
+tabu: 6
+tabu: 8
+tempo em seg.: 0.797000
+tempo em seg.: 0.653752
+factivel: 1
+
+Experimento 10:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|841		1017		829		1.447527
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 16
+0 melhorou: 1027.000000
+1 melhorou: 1022.000000
+tabu: 12
+tabu: 6
+tabu: 17
+tabu: 7
+tempo em seg.: 4.546000
+tempo em seg.: 3.795655
+factivel: 1
+
+Experimento 11:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1022		1761		1006		1.590457
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 7
+0 melhorou: 992.000000
+1 melhorou: 974.000000
+tabu: 15
+39 melhorou: 972.000000
+66 melhorou: 971.000000
+80 melhorou: 970.000000
+103 melhorou: 969.000000
+120 melhorou: 968.000000
+tempo em seg.: 4.531000
+tempo em seg.: 3.772828
+factivel: 1
+
+Experimento 12:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|968		1567		966		0.207039
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 15
+0 melhorou: 1048.000000
+27 melhorou: 1039.000000
+28 melhorou: 1026.000000
+tabu: 11
+tabu: 14
+tabu: 15
+tempo em seg.: 4.109000
+tempo em seg.: 3.420790
+factivel: 1
+
+Experimento 13:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1026		1847		1026		0.000000
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 7
+0 melhorou: 1010.000000
+5 melhorou: 1007.000000
+11 melhorou: 1001.000000
+tabu: 13
+tabu: 13
+101 melhorou: 1000.000000
+tabu: 18
+tempo em seg.: 4.078000
+tempo em seg.: 3.407252
+factivel: 1
+
+Experimento 14:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1000		1635		982		1.832994
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 11
+0 melhorou: 1101.000000
+8 melhorou: 1097.000000
+tabu: 16
+tabu: 12
+tabu: 9
+121 melhorou: 1094.000000
+tempo em seg.: 4.078000
+tempo em seg.: 3.389688
+factivel: 1
+
+Experimento 15:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1094		1517		1091		0.274977
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 15
+0 melhorou: 991.000000
+tabu: 18
+60 melhorou: 989.000000
+75 melhorou: 978.000000
+76 melhorou: 977.000000
+84 melhorou: 975.000000
+tabu: 11
+tabu: 12
+tempo em seg.: 3.875000
+tempo em seg.: 3.236784
+factivel: 1
+
+Experimento 16:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|975		1780		954		2.201258
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 6
+0 melhorou: 1081.000000
+2 melhorou: 1048.000000
+24 melhorou: 1046.000000
+52 melhorou: 1045.000000
+72 melhorou: 1041.000000
+tabu: 7
+114 melhorou: 1039.000000
+tabu: 10
+tempo em seg.: 4.219000
+tempo em seg.: 3.507871
+factivel: 1
+
+Experimento 17:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1039		1665		1034		0.483559
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 10
+0 melhorou: 1093.000000
+1 melhorou: 1075.000000
+11 melhorou: 1058.000000
+27 melhorou: 1051.000000
+29 melhorou: 1048.000000
+30 melhorou: 1047.000000
+48 melhorou: 1045.000000
+tabu: 10
+tabu: 10
+tabu: 6
+tempo em seg.: 4.204000
+tempo em seg.: 3.513490
+factivel: 1
+
+Experimento 18:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1045		1345		1043		0.191755
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 18
+0 melhorou: 1046.000000
+13 melhorou: 1037.000000
+tabu: 6
+tabu: 18
+tabu: 13
+tabu: 7
+tempo em seg.: 3.922000
+tempo em seg.: 3.266256
+factivel: 1
+
+Experimento 19:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1037		1634		1031		0.581959
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 1
+tabu: 9
+0 melhorou: 1142.000000
+2 melhorou: 1088.000000
+tabu: 9
+37 melhorou: 1085.000000
+38 melhorou: 1043.000000
+tabu: 18
+tabu: 16
+tabu: 14
+tempo em seg.: 4.156000
+tempo em seg.: 3.460042
+factivel: 1
+
+Experimento 20:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|1043		1872		1005		3.781095
+ ------------------------------------------------------------
+
+
+RPC medio: 0.686300

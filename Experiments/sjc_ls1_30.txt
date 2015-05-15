@@ -1,0 +1,69 @@
+its necessarias passo 1 (const): 4
+its necessarias passo 2 (local): 4
+tempo em seg.: 0.266000
+tempo em seg.: 0.218947
+factivel: 1
+
+Experimento 1:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|17935		786		17288		3.742480
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+its necessarias passo 2 (local): 5
+tempo em seg.: 3.110000
+tempo em seg.: 2.598567
+factivel: 1
+
+Experimento 2:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|33755		816		33395		1.078006
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 8
+its necessarias passo 2 (local): 5
+tempo em seg.: 12.234000
+tempo em seg.: 10.193509
+factivel: 1
+
+Experimento 3:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|47440		972		45364		4.576316
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 5
+its necessarias passo 2 (local): 3
+tempo em seg.: 7.422000
+tempo em seg.: 6.178763
+factivel: 1
+
+Experimento 4:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|44505		891		40635		9.523810
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 12
+its necessarias passo 2 (local): 2
+tempo em seg.: 12.765000
+tempo em seg.: 10.634759
+factivel: 1
+
+Experimento 5:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|71854		804		62000		15.893548
+ ------------------------------------------------------------
+its necessarias passo 1 (const): 4
+its necessarias passo 2 (local): 6
+tempo em seg.: 39.235000
+tempo em seg.: 32.692812
+factivel: 1
+
+Experimento 6:
+ ------------------------------------------------------------
+|dist. total	H.OC (Osman)	Melhor	RPC
+|56070		882		52641		6.513934
+ ------------------------------------------------------------
+
+
+RPC medio: 6.888016

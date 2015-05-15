@@ -1,0 +1,14 @@
+0 melhorou: 2235.000000
+1 melhorou: 2227.000000
+26 melhorou: 2212.000000
+34 melhorou: 2211.000000
+39 melhorou: 2198.000000
+46 melhorou: 2190.000000
+update now: 47
+48 melhorou: 2185.000000
+update now: 96
+update now: 145
+update now: 194
+update now: 243
+update now: 292
+update now: 341
